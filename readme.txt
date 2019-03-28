@@ -14,3 +14,7 @@ Git is free software.
 666
 777
 888
+
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
+Git tracks changes.
